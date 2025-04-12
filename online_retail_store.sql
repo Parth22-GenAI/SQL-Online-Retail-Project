@@ -1,3 +1,4 @@
+
 -- Create Customers Table
 CREATE TABLE Customers (
     CustomerID INT PRIMARY KEY,
